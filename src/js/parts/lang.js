@@ -36,7 +36,7 @@ async function loadTranslations(lang) {
   }
 }
 
-loadTranslations(lang);
+// loadTranslations(lang);
 
 // document.addEventListener('DOMContentLoaded', () => {
 //   const currentLang = document.documentElement.lang.toUpperCase();
@@ -64,7 +64,6 @@ loadTranslations(lang);
 //   });
 // });
 
-
 // document.addEventListener('DOMContentLoaded', () => {
 //   const fileName = window.location.pathname.split('/').pop(); // contact.html
 //   const isIndex = fileName === 'index.html';
@@ -86,7 +85,6 @@ loadTranslations(lang);
 //     });
 //   });
 // });
-
 
 // document.addEventListener('DOMContentLoaded', () => {
 //   const currentLang = document.documentElement.lang.toLowerCase();

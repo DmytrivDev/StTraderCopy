@@ -30,17 +30,17 @@ main,
 }
 
 [class*="__container"] {
-  max-width: 80.3125rem;
+  max-width: 83.75rem;
   padding: 0 1.875rem;
   margin: 0 auto;
 }
 
-/* --------- Adaptive desktop (1285px) --------- */
+/* --------- Adaptive desktop (1340px) --------- */
 
-@media screen and (max-width: 1285px) {
+@media screen and (max-width: 1340px) {
   html,
   body {
-    font-size: 1.245136vw;
+    font-size: 1.19403vw;
   }
 }
 

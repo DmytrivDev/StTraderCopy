@@ -3,13 +3,15 @@
   overflow: hidden;
   border-radius: 1.5rem;
   background-color: var(--cn);
-  padding: 4.5rem 31.25rem 3.5rem 3.5rem;
-  min-height: 25.4375rem;
+  padding: 3.5rem 37.5rem 3.5rem 3.5rem;
+  min-height: 25.5rem;
 }
 .copytop__content {
   position: relative;
   z-index: 10;
   .tl2 {
+    font-size: 3rem;
+    line-height: 1.16;
     margin-bottom: 0.75rem;
   }
   .txt1 {
@@ -40,12 +42,43 @@
     width: 100%;
   }
 }
-.copytop__desc {
+
+.copytop__graph1 {
   position: absolute;
+  bottom: 15.375rem;
+  right: 27.3125rem;
+  z-index: 1;
+  width: 7.6875rem;
+  img {
+    width: 100%;
+  }
+}
+.copytop__graph2 {
+  position: absolute;
+  bottom: 8.375rem;
+  right: 25.4375rem;
+  z-index: 2;
+  width: 7.625rem;
+  img {
+    width: 100%;
+  }
+}
+.copytop__graph3 {
+  position: absolute;
+  right: 6.75rem;
+  bottom: 16.9375rem;
   z-index: 3;
-  right: -8.5rem;
-  bottom: -0.8125rem;
-  width: 39.1133rem;
+  width: 8.375rem;
+  img {
+    width: 100%;
+  }
+}
+.copytop__girl {
+  position: absolute;
+  right: 7.875rem;
+  bottom: 0;
+  z-index: 5;
+  width: 27.125rem;
   img {
     width: 100%;
   }
@@ -55,7 +88,7 @@
   .copytop__body {
     border-radius: 1rem;
     padding: 2rem 50% 2rem 1.5rem;
-    min-height: 16.5rem;
+    min-height: auto;
   }
   .copytop__content {
     .tl2 {
@@ -63,7 +96,6 @@
       font-weight: 700;
       line-height: 1.14;
       margin-bottom: 1rem;
-      text-transform: none;
     }
     .txt1 {
       margin-bottom: 2rem;
@@ -78,16 +110,59 @@
     transform: translateX(-50%);
     width: 76.625rem;
   }
-  .copytop__desc {
-    right: -5.6875rem;
-    bottom: -0.25rem;
-    width: 25.2005rem;
+
+  .copytop__graph1 {
+    bottom: 12.3125rem;
+    right: 16.875rem;
+    width: 6.25rem;
+  }
+  .copytop__graph2 {
+    bottom: 6.6875rem;
+    right: 15.625rem;
+    width: 6.125rem;
+  }
+  .copytop__graph3 {
+    right: 4.125rem;
+    bottom: 8.6875rem;
+    width: 5.25rem;
+  }
+  .copytop__girl {
+    right: 4.75rem;
+    width: 20rem;
   }
 }
 
 @media screen and (max-width: 768px) {
   .copytop__body {
-    padding: 2rem 1.5rem 17.375rem 1.5rem;
+    padding: 2rem 1.5rem 17.75rem 1.5rem;
     min-height: auto;
+  }
+
+  .copytop__content {
+    .btn-def {
+      margin: 0 auto;
+      min-width: 18.125rem;
+    }
+  }
+
+  .copytop__graph1 {
+    left: auto;
+    right: 50%;
+    transform: translateX(-3.5rem);
+  }
+  .copytop__graph2 {
+    left: auto;
+    right: 50%;
+    transform: translateX(-2.0625rem);
+  }
+  .copytop__graph3 {
+    right: auto;
+    left: 50%;
+    transform: translateX(4.5rem);
+  }
+  .copytop__girl {
+    left: 50%;
+    transform: translateX(-55%);
+    right: auto;
   }
 }
