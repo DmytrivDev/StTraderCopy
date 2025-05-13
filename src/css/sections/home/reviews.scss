@@ -1,18 +1,14 @@
-.reviews__heading {
-  position: relative;
-  padding-right: 39.375rem;
-  margin-bottom: 2.5rem;
-
+.reviews {
   .trustpilot {
-    position: absolute;
-    right: 0;
-    bottom: 2.25rem;
+    margin: 0 auto 1.5rem auto;
   }
-}
-.reviews__head {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem 0;
+
+  .heading {
+    gap: 1rem 0;
+    .tl2 {
+      max-width: 47.5rem;
+    }
+  }
 }
 
 .reviews__wrapp {
@@ -125,9 +121,9 @@
 .card-review__media {
   position: relative;
   overflow: hidden;
-  padding-top: 101.8%;
+  padding-top: 100%;
   border-radius: 1rem 1rem 1rem 0;
-  margin-bottom: 1.1875rem;
+  margin-bottom: 1.5rem;
 }
 .card-review__video {
   position: absolute;
@@ -169,24 +165,15 @@
 }
 
 @media screen and (max-width: 960px) {
-  .reviews__heading {
-    padding-right: 0;
-    margin-bottom: 1.5rem;
-    display: flex;
-    flex-direction: column-reverse;
-    align-items: center;
-
+  .reviews {
     .trustpilot {
-      position: relative;
-      right: auto;
-      bottom: auto;
-      margin-bottom: 1.25rem;
+      margin: 0 auto 1.25rem auto;
     }
-  }
-  .reviews__head {
-    gap: 1rem 0;
-    & > * {
-      text-align: center;
+
+    .heading {
+      .tl2 {
+        max-width: 100%;
+      }
     }
   }
 
