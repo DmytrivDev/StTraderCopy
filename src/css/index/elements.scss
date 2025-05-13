@@ -57,8 +57,8 @@
   text-transform: uppercase;
 }
 .tl2 {
-  font-size: 3.5rem;
-  line-height: 1.1;
+  font-size: 3rem;
+  line-height: 1.16;
   text-transform: uppercase;
 }
 .tl3 {
@@ -172,8 +172,11 @@
   .tl1,
   .tl2 {
     font-size: 2rem;
-    font-weight: 600;
     line-height: 1;
+  }
+  .tl2 {
+    font-size: 1.75rem;
+    line-height: 1.4;
   }
   .tl3 {
     font-size: 1.75rem;
