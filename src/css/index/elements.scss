@@ -13,6 +13,9 @@
 .pdtb2 {
   padding: 7.75rem 0;
 }
+.pdtb3 {
+  padding: 5.5rem 0;
+}
 
 .pdt1 {
   padding-top: 10rem;
@@ -113,6 +116,14 @@
     padding: 0.75rem 1.5rem;
   }
 
+  &.bg-cw {
+    background-color: var(--cw);
+    box-shadow: none;
+    &:hover {
+      box-shadow: 0 0 1rem rgba(255, 255, 255, 0.34);
+    }
+  }
+
   &.bg-trn {
     color: var(--cw);
     background-color: transparent;
@@ -147,8 +158,9 @@
   .pdtb1 {
     padding: 6rem 0;
   }
-  .pdtb2 {
-    padding: 4rem 0;
+  .pdtb2,
+  .pdtb3 {
+    padding: 64px 0;
   }
 
   .pdt1 {
