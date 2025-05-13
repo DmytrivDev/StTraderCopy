@@ -1,0 +1,66 @@
+.justcopy__graph1 {
+  position: absolute;
+  z-index: 3;
+  right: 0.8125rem;
+  bottom: 17.25rem;
+  width: 9.9375rem;
+  img {
+    width: 100%;
+  }
+}
+.justcopy__graph2 {
+  position: absolute;
+  z-index: 2;
+  bottom: 4.5rem;
+  right: 19.625rem;
+  width: 10.9375rem;
+  img {
+    width: 100%;
+  }
+}
+.justcopy__tel {
+  position: absolute;
+  z-index: 1;
+  right: 8.375rem;
+  bottom: -5.2981rem;
+  transform: rotate(6deg);
+  width: 13.6475rem;
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .justcopy__graph1 {
+    right: 2.625rem;
+    bottom: 8.625rem;
+    width: 7rem;
+  }
+  .justcopy__graph2 {
+    right: 15.625rem;
+    bottom: 2.5625rem;
+    width: 6.75rem;
+  }
+  .justcopy__tel {
+    right: 8.375rem;
+    bottom: -5.9188rem;
+    width: 8.8369rem;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .justcopy__graph1 {
+    right: auto;
+    left: 50%;
+    transform: translateX(42%);
+  }
+  .justcopy__graph2 {
+    right: 50%;
+    transform: translateX(-43%);
+  }
+  .justcopy__tel {
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%) rotate(6deg);
+  }
+}
