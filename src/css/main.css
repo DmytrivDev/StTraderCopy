@@ -1,0 +1,47 @@
+/* Settings */
+@import url('./settings/fonts.scss');
+@import url('./index/variables.scss');
+@import url('./index/icons.scss');
+@import url('./settings/default.scss');
+
+@import url('./settings/general.scss');
+@import url('./settings/reset.scss');
+@import url('./index/embeded.scss');
+@import url('./index/elements.scss');
+@import url('./index/cluster.scss');
+
+/* General */
+@import url('./sections/general/banner.scss');
+@import url('./sections/general/cookies.scss');
+
+/* Header */
+@import url('./sections/header/header.scss');
+@import url('./sections/header/parts/navmenu.scss');
+@import url('./sections/header/parts/actions.scss');
+@import url('./sections/header/parts/mobmenu.scss');
+@import url('./sections/header/parts/moblang.scss');
+
+/* Home */
+@import url('./sections/home/hero.scss');
+@import url('./sections/home/runline.scss');
+@import url('./sections/home/trade.scss');
+@import url('./sections/home/works.scss');
+@import url('./sections/home/trust.scss');
+@import url('./sections/home/awarded.scss');
+@import url('./sections/home/commision.scss');
+@import url('./sections/home/deposits.scss');
+@import url('./sections/home/grow.scss');
+@import url('./sections/home/type.scss');
+@import url('./sections/home/platforms.scss');
+@import url('./sections/home/reviews.scss');
+@import url('./sections/home/faq.scss');
+@import url('./sections/home/copytop.scss');
+
+/* Contact */
+@import url('./sections/contact/contact.scss');
+
+/* Policy */
+@import url('./sections/policy/policy.scss');
+
+/* Footer */
+@import url('./sections/footer/footer.scss');

@@ -1,0 +1,109 @@
+.note {
+  position: relative;
+  width: fit-content;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.33;
+  padding-left: 1.5rem;
+  span {
+    color: var(--cl);
+  }
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1rem;
+    height: 1rem;
+    background-size: 1rem 1rem;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-image: var(--fire);
+  }
+}
+
+.trustpilot {
+  position: relative;
+  width: fit-content;
+  padding: 0.5rem 0.75rem;
+  background-color: var(--cg);
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0 0.75rem;
+  transition: all 0.15s ease-in;
+  p {
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.42;
+  }
+  &:hover {
+    box-shadow: 0 0 1rem rgba(0, 182, 122, 0.64);
+  }
+}
+.trustpilot__img {
+  flex-shrink: 0;
+  display: block;
+  width: 8rem;
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  img {
+    width: 100%;
+  }
+}
+
+[class*="__vec1"] {
+  position: absolute;
+  z-index: 1;
+  filter: blur(8rem);
+  width: 24.25rem;
+  img {
+    width: 100%;
+  }
+}
+[class*="__vec2"] {
+  position: absolute;
+  z-index: 1;
+  filter: blur(8rem);
+  width: 24.2594rem;
+  transform: rotate(30deg);
+  img {
+    width: 100%;
+  }
+}
+[class*="__vec3"] {
+  position: absolute;
+  z-index: 1;
+  filter: blur(6.125rem);
+  width: 62.6875rem;
+  img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .trustpilot {
+    gap: 0 0.5rem;
+    p {
+      position: relative;
+      bottom: -0.125rem;
+      font-size: 0.75rem;
+      line-height: 1.33;
+      & > span {
+        font-size: 1.125rem;
+        span {
+          display: none;
+        }
+      }
+    }
+  }
+  .trustpilot__img {
+    width: 6rem;
+  }
+}

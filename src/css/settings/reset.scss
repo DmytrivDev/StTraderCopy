@@ -1,0 +1,116 @@
+.wrapper {
+  // ============== Accordion ==============
+  .accord {
+    counter-reset: list-counter;
+  }
+  .ac {
+    position: relative;
+    margin: 0;
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    counter-increment: list-counter;
+    transition: all 0.15s ease-in;
+
+    &:before {
+      content: counter(list-counter, decimal-leading-zero);
+      position: absolute;
+    }
+
+    .ac-trigger {
+      cursor: pointer;
+      font: inherit;
+      color: var(--cm);
+      font-size: inherit;
+      line-height: inherit;
+      &::after {
+        display: none;
+      }
+    }
+    [class*="__head"] {
+      display: flex;
+      align-items: start;
+      justify-content: space-between;
+      gap: 2rem;
+      &::after {
+        content: "";
+        flex-shrink: 0;
+        width: 2rem;
+        height: 2rem;
+        background-size: 2rem 2rem;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-image: var(--plus);
+        transition: all 0.15s ease-in;
+      }
+      .tl4 {
+        transition: all 0.15s ease-in;
+      }
+    }
+    &.is-active {
+      &:before {
+        color: var(--cl);
+      }
+      .ac-panel {
+        opacity: 1;
+      }
+      [class*="__head"] {
+        .tl4 {
+          color: var(--cl);
+        }
+        &::after {
+          background-image: var(--minus);
+        }
+      }
+    }
+    .ac-panel {
+      cursor: default;
+      opacity: 0;
+      transition-property: height, visibility, opacity !important;
+    }
+  }
+
+  // ============== Splide ==============
+  .splide__list {
+    display: flex !important;
+  }
+  .splide__pagination {
+    margin-top: 1rem;
+    position: static;
+    padding: 0;
+    bottom: 0;
+    gap: 0 0.5rem;
+    li {
+      display: flex;
+    }
+  }
+  .splide__pagination__page {
+    border-radius: 50%;
+    width: 0.5rem;
+    height: 0.5rem;
+    margin: 0;
+    background-color: var(--ch2);
+    opacity: 0.24;
+    transition: all 0.15s ease-in;
+    &.is-active {
+      background-color: var(--ch2);
+      transform: none;
+      opacity: 1;
+    }
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    // ============== Accordion ==============
+    .ac {
+      [class*="__head"] {
+        &::after {
+          width: 1.5rem;
+          height: 1.5rem;
+          background-size: 1.5rem 1.5rem;
+        }
+      }
+    }
+  }
+}

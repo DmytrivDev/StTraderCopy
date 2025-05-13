@@ -1,0 +1,12 @@
+import './parts/lang.js';
+import './parts/lockscroll.js';
+import './parts/mobmenu.js';
+import './parts/moblang.js';
+import './parts/cookies.js';
+import './parts/scrollto.js';
+import './parts/videoplay.js';
+import './parts/addmore.js';
+import './parts/accordion.js';
+import './parts/banner.js';
+import './parts/splidecust.js';
+import './parts/splide.js';
