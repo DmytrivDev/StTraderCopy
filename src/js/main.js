@@ -8,5 +8,3 @@ import './parts/videoplay.js';
 import './parts/addmore.js';
 import './parts/accordion.js';
 import './parts/banner.js';
-import './parts/splidecust.js';
-import './parts/splide.js';
