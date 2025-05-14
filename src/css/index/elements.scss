@@ -76,6 +76,9 @@
 .txt1,
 .txt2,
 .txt3 {
+  &.cb {
+    color: var(--cb2);
+  }
   &.ce {
     color: var(--ce);
   }
