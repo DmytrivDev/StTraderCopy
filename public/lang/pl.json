@@ -1,161 +1,95 @@
 {
     "runline": {
         "item_1": "Łatwa w użyciu platforma handlowa dla każdego",
-        "item_2": "Bezpłatna konfiguracja konta z niskim minimalnym depozytem",
+        "item_2": "Darmowa konfiguracja konta z niskim minimalnym depozytem",
         "item_3": "Handluj na globalnych rynkach w dowolnym czasie i miejscu",
         "item_4": "Szybkie wypłaty i bezpieczne płatności"
     },
-    "trade": {
-        "title": "CO MOŻESZ HANDLOWAĆ Z ST TRADER?",
-        "button": "Zacznij Teraz",
-        "items": {
-            "stocks": {
-                "title": "Akcje",
-                "text": "Handel akcjami głównych spółek z USA, Wielkiej Brytanii i UE, takich jak Apple, Tesla, Amazon i inne."
-            },
-            "indices": {
-                "title": "Indeksy",
-                "text": "Śledź i handluj na głównych rynkach, takich jak S&P 500, NASDAQ, DAX i FTSE 100."
-            },
-            "etfs": {
-                "title": "ETF-y",
-                "text": "Zdywersyfikuj swój portfel za pomocą koszyków najlepszych aktywów."
-            },
-            "commodities": {
-                "title": "Surowce",
-                "text": "Uzyskaj dostęp do złota, ropy naftowej, srebra i innych surowców będących przedmiotem obrotu."
-            },
-            "energy": {
-                "title": "Rynki energetyczne",
-                "text": "Podążaj za trendami na światowych rynkach energii, takich jak ropa naftowa i gaz ziemny."
-            }
+    "copytrad": {
+        "title": "CZYM JEST COPY TRADING?",
+        "description": "A co, jeśli mógłbyś handlować jak najlepsi inwestorzy, nie robiąc wszystkiego samodzielnie? Dzięki Copy Trading po prostu wybierasz doświadczonego tradera, a jego ruchy są automatycznie odzwierciedlane na Twoim koncie. To mądrzejszy, bardziej połączony sposób inwestowania — bez wykresów, bez stresu, bez zgadywania.",
+        "button": "Zacznij Copy Trading"
+    },
+    "meet": {
+        "title": "POZNAJ NASZYCH NAJLEPSZYCH PERFORMERÓW",
+        "card_1": {
+            "place": "#1",
+            "name": "Lucas M.",
+            "followers": "Obserwujący: 842",
+            "trades": "Transakcje: 112",
+            "roi": "ROI (Miesięczny): +61.4%",
+            "earnings": "Szacowane zyski: €385",
+            "from": "Od: €250"
+        },
+        "card_2": {
+            "place": "#2",
+            "name": "Daniel V.",
+            "followers": "Obserwujący: 1,130",
+            "trades": "Transakcje: 154",
+            "roi": "ROI (Miesięczny): +73%",
+            "earnings": "Szacowane zyski: €875",
+            "from": "Od: €500"
+        },
+        "card_3": {
+            "place": "#3",
+            "name": "Sofia R.",
+            "followers": "Obserwujący: 670",
+            "trades": "Transakcje: 89",
+            "roi": "ROI (Miesięczny): +48%",
+            "earnings": "Szacowane zyski: €720",
+            "from": "Od: €500"
+        },
+        "button": "Zacznij Copy Trading",
+        "see_more": "Zobacz więcej traderów"
+    },
+    "steps": {
+        "title": "ZACZNIJ W 3 PROSTYCH KROKACH",
+        "step_1": {
+            "label": "Krok 01",
+            "title": "Zarejestruj się i poznaj najlepszych traderów"
+        },
+        "step_2": {
+            "label": "Krok 02",
+            "title": "Dokonaj depozytu od €250"
+        },
+        "step_3": {
+            "label": "Krok 03",
+            "title": "Skopiuj tradera i pozwól platformie zająć się resztą"
+        },
+        "button": "Zacznij teraz"
+    },
+    "whycopy": {
+        "title": "DLACZEGO COPY TRADING?",
+        "text": "Stworzone dla wyników. Wsparte regulacjami. Zaufane na całym świecie",
+        "card_1": {
+            "title": "Nie wymaga doświadczenia",
+            "text": "Nie potrzebujesz wykresów, strategii ani szkolenia — wystarczy wybrać tradera, a system zrobi resztę"
+        },
+        "card_2": {
+            "title": "Automatyczne wykonanie",
+            "text": "Każda transakcja dokonana przez wybranego tradera jest natychmiast odzwierciedlana na Twoim koncie, bez potrzeby ręcznych działań"
+        },
+        "card_3": {
+            "title": "Możesz zatrzymać lub wstrzymać w dowolnym momencie",
+            "text": "Chcesz zrobić przerwę lub zmienić tradera? Możesz wstrzymać lub zakończyć w dowolnym momencie"
+        },
+        "card_4": {
+            "title": "Przejrzyste statystyki i pełna kontrola",
+            "text": "Sprawdź wcześniejsze wyniki każdego tradera, poziom ryzyka, liczbę transakcji i więcej — aby podejmować świadome decyzje"
+        },
+        "card_5": {
+            "title": "Zarabiaj pasywnie razem z prawdziwymi traderami",
+            "text": "Gdy oni zarabiają, Ty też zarabiasz — bez potrzeby ciągłego śledzenia rynków"
         }
     },
-    "works": {
-        "title_html": "JAK TO DZIAŁA W <span>3 PROSTYCH KROKACH</span>",
-        "steps": {
-            "step1": "Stwórz swoje darmowe konto",
-            "step2": "Wpłać depozyt od € 250",
-            "step3": "Zacznij handlować po swojemu"
-        }
-    },
-    "trust": {
-        "title": "DLACZEGO TRADERZY ZAUFUJĄ ST TRADER?",
-        "items": {
-            "item1": {
-                "title": "1700+ aktywów",
-                "text": "Handluj globalnymi akcjami, indeksami, metalami i nie tylko — wszystko z jednego konta"
-            },
-            "item2": {
-                "title": "$1 mln",
-                "text": "Twoje środki są chronione przez ubezpieczenie Lloyd’s of London"
-            },
-            "item3": {
-                "title": "100 000+",
-                "text": "Dołącz do rosnącej globalnej społeczności już handlującej z ST Trader"
-            },
-            "item4": {
-                "title": "Spready 0.0",
-                "text": "Ultra-niskie spready i opcja konta bez prowizji dla inteligentniejszego handlu"
-            }
-        }
-    },
-    "awarded": {
-        "title": "NAGRODZONY ZA DOSKONAŁOŚĆ W INNOWACJACH W HANDLU",
-        "items": {
-            "item1": {
-                "title": "Najlepsze Doświadczenie Handlowe",
-                "text": "Nagrodzony przez Global Business Outlook — 2024"
-            },
-            "item2": {
-                "title": "Najlepsza Platforma Handlowa",
-                "text": "Nagrodzony przez Fintech Awards — 2023"
-            },
-            "item3": {
-                "title": "Najszybciej Rozwijający się Broker",
-                "text": "Nagrodzony przez World Finance — 2024"
-            },
-            "item4": {
-                "title": "Najlepsza Nowa Technologia Handlowa",
-                "text": "Nagrodzony przez Financial Innovation Awards — 2022"
-            }
-        }
-    },
-    "commision": {
-        "subtitle": "Niższe koszty. Wyższy potencjał.",
-        "title": "$0 prowizji",
-        "features": {
-            "feature1": "$0 prowizji",
-            "feature2": "Spready od 0.0 pipsów",
-            "feature3": "Wysoka dźwignia 1:500",
-            "feature4": "Brak opłat za depozyt"
-        }
+    "justcopy": {
+        "title": "POZWÓL EKSPERTOM HANDLOWAĆ — TY TYLKO KOPIUJ",
+        "text": "Nie musisz uczyć się wykresów ani śledzić wiadomości. Wybierz tradera, ustaw kwotę, a reszta dzieje się automatycznie.",
+        "button": "Utwórz swoje konto"
     },
     "deposits": {
         "title": "SZYBKIE I BEZPIECZNE DEPOZYTY",
-        "text": "Natychmiast doładuj swoje konto, korzystając z zaufanych globalnych metod płatności"
-    },
-    "grow": {
-        "title": "W CO MOŻE PRZERODZIĆ SIĘ TWÓJ DEPOZYT?",
-        "button": "Wypróbuj Demo Platformy",
-        "cards": {
-            "country_italy": "Włochy",
-            "country_germany": "Niemcy",
-            "country_spain": "Hiszpania",
-            "minday_20": "20 min/dzień",
-            "minday_30": "30 min/dzień",
-            "minday_50": "50 min/dzień",
-            "starting": "Początkowy Depozyt",
-            "result": "Wynik po 30 Dniach",
-            "growth": "Wzrost"
-        }
-    },
-    "type": {
-        "title": "WYBIERZ TYP SWOJEGO KONTA",
-        "subtitle": "Dwa elastyczne typy kont dostosowane do Twoich celów i nawyków handlowych",
-        "note": "Wystarczy się zarejestrować - <span>to darmowe</span>",
-        "standard": {
-            "title": "STANDARD",
-            "button": "OTWÓRZ KONTO STANDARD TERAZ",
-            "features": {
-                "feature1": "Spready zaczynające się od <b>1.0 pipsa</b>",
-                "feature2": "<b>Ultra-szybkie</b> Wykonanie",
-                "feature3": "Brak <b>Dealing Desk</b>",
-                "feature4": "<b>Przejrzyste</b> Środowisko Handlowe",
-                "feature5": "Ochrona przed ujemnym saldem <b>zapewniona</b>",
-                "feature6": "<b>Brak prowizji</b> na transakcjach (z wyjątkiem indeksów)"
-            }
-        },
-        "ecn": {
-            "title": "ECN",
-            "button": "OTWÓRZ KONTO ECN TERAZ",
-            "features": {
-                "feature1": "Spready zaczynające się od <b>0.0 pipsa</b>",
-                "feature2": "<b>Ultra-szybkie</b> Wykonanie",
-                "feature3": "Głębokie <b>Analizy Rynku</b>",
-                "feature4": "<b>Przejrzyste</b> Środowisko Handlowe",
-                "feature5": "Ochrona przed ujemnym saldem <b>zapewniona</b>",
-                "feature6": "<b>Prowizja:</b> Tak"
-            }
-        }
-    },
-    "platforms": {
-        "title": "HANDLUJ NA ZAUFANYCH PLATFORACH",
-        "subtitle": "Dostęp do rynków z dowolnego urządzenia — szybko, elastycznie i przyjazne dla początkujących",
-        "features": {
-            "feature1": {
-                "title": "Mobilne, desktopowe i webowe",
-                "text": "Handluj w dowolnym czasie i miejscu — z telefonu, tabletu lub PC"
-            },
-            "feature2": {
-                "title": "Przyjazny interfejs użytkownika",
-                "text": "Czysty, intuicyjny układ z potężnymi funkcjami na wyciągnięcie ręki"
-            },
-            "feature3": {
-                "title": "Zaawansowane wykresy i handel jednym kliknięciem",
-                "text": "Śledź trendy, analizuj ruchy i składaj zlecenia w kilka sekund"
-            }
-        }
+        "text": "Doładuj swoje konto natychmiast, korzystając z zaufanych globalnych metod płatności"
     },
     "reviews": {
         "title": "CO MÓWIĄ PRAWDZIWI UŻYTKOWNICY O ST TRADER",
@@ -164,44 +98,63 @@
         "show_more": "Pokaż więcej",
         "review1": {
             "name": "Lucas T. (Niemcy)",
-            "text": "Zacząłem z €250 tylko po to, by spróbować. Po 3 tygodniach miałem €412 na koncie — i nie muszę siedzieć cały dzień przed wykresami."
+            "text": "Zacząłem z €250, żeby tylko spróbować. Po 3 tygodniach miałem €412 na koncie — i nie muszę siedzieć przed wykresami cały dzień."
         },
         "review2": {
             "name": "Sofia M. (Hiszpania)",
-            "text1": "Próbowałem kilku platform wcześniej, ale ta w końcu mnie przekonała.",
-            "text2": "Czysty design, szybkie depozyty, a moje pierwsze wypłacenie €180 dotarło w mniej niż dzień."
+            "text1": "Próbowałam kilku platform wcześniej, ale ta w końcu zaskoczyła.",
+            "text2": "Czysty design, szybkie depozyty, a moja pierwsza wypłata €180 przyszła w mniej niż dzień."
         },
         "review3": {
             "name": "Daniel K. (Szwecja)",
-            "text": "Na początku byłem sceptyczny, ale okazało się, że to prawdziwe. Handluję w czasie przerw obiadowych i już dwukrotnie wypłaciłem zyski."
+            "text": "Na początku byłem sceptyczny, ale okazało się, że to legitne. Handluję podczas przerw na lunch i już dwa razy wypłaciłem zyski."
         },
         "review4": {
             "name": "Mia S. (Austria)",
-            "text": "Naprawdę proste do rozpoczęcia. Zespół wsparcia pomógł mi zrozumieć dźwignię, a teraz jestem pewny przy każdym handlu."
+            "text": "Naprawdę łatwe do rozpoczęcia. Zespół wsparcia pomógł mi zrozumieć dźwignię, a teraz czuję się pewnie przy każdej transakcji."
+        }
+    },
+    "solution": {
+        "title": "ST TRADER — TWOJE KOMPLEKSOWE ROZWIĄZANIE DO HANDLU",
+        "card_1": {
+            "title": "Szeroki zakres rynków",
+            "text": "Handluj akcjami, indeksami, towarami, energią, a nawet kryptowalutami — wszystko z jednej platformy"
+        },
+        "card_2": {
+            "title": "Interfejs przyjazny dla początkujących",
+            "text": "Bez bałaganu, bez zamieszania. Tylko przejrzyste, intuicyjne doświadczenie na urządzeniach mobilnych i komputerach"
+        },
+        "card_3": {
+            "title": "Licencjonowane i chronione",
+            "text": "ST Trader to w pełni regulowany broker z ubezpieczeniem do $1,000,000"
+        },
+        "card_4": {
+            "title": "Szybkie wykonanie i wypłaty",
+            "text": "Ciesz się ultraszybkim wykonaniem transakcji i przetwarzaniem wypłat w ciągu 24 godzin — bez opóźnień"
         }
     },
     "faq": {
         "title": "Często zadawane pytania",
         "subtitle": "Nowy w handlu? Mamy odpowiedzi",
         "q1": "Czym jest ST Trader i jak działa?",
-        "a1": "ST Trader to platforma online, która daje Ci dostęp do globalnych rynków. Możesz otworzyć konto, wpłacić środki i zacząć handlować za pomocą narzędzi zaprojektowanych dla wszystkich poziomów doświadczenia.",
+        "a1": "ST Trader to platforma online, która daje Ci dostęp do globalnych rynków. Możesz otworzyć konto, zdeponować środki i zacząć handlować z narzędziami zaprojektowanymi dla wszystkich poziomów doświadczenia.",
         "q2": "Ile pieniędzy potrzebuję, aby zacząć?",
-        "a2": "Możesz otworzyć konto już za €50, ale zalecamy rozpoczęcie z co najmniej €250, aby w pełni wykorzystać funkcje i narzędzia platformy.",
+        "a2": "Możesz otworzyć konto z zaledwie €50, ale zalecamy rozpoczęcie od co najmniej €250, aby w pełni wykorzystać funkcje i narzędzia platformy.",
         "q3": "Czy muszę być ekspertem w handlu?",
-        "a3": "Wcale nie. ST Trader został zaprojektowany, aby być przyjaznym dla początkujących, z prostymi interfejsami i dostępem do wsparcia i tutoriali.",
-        "q4": "Co mogę handlować na platformie?",
-        "a4": "Możesz handlować akcjami, indeksami, towarami, kryptowalutami i nie tylko — wszystko z jednego konta.",
+        "a3": "Absolutnie nie. ST Trader jest zaprojektowany, aby być przyjaznym dla początkujących, z prostymi interfejsami i dostępem do wsparcia i tutoriali.",
+        "q4": "Czym mogę handlować na platformie?",
+        "a4": "Możesz handlować akcjami, indeksami, towarami, kryptowalutami i więcej — wszystko z jednego konta.",
         "q5": "Czy ST Trader to bezpieczna i regulowana platforma?",
-        "a5": "Tak, Twoje środki są chronione, a współpracujemy z regulowanymi dostawcami płynności i ubezpieczonymi procesorami płatności.",
-        "q6": "Jak wpłacam pieniądze?",
+        "a5": "Tak, Twoje środki są chronione, a my współpracujemy z regulowanymi dostawcami płynności i ubezpieczonymi procesorami płatności.",
+        "q6": "Jak mogę zdeponować pieniądze?",
         "a6": "Depozyty można dokonać natychmiast za pomocą karty kredytowej, przelewu bankowego lub innych zaufanych metod płatności wymienionych w Twojej strefie konta.",
-        "q7": "Jak szybko mogę wypłacić swoje zyski?",
-        "a7": "Wypłaty są zwykle przetwarzane w ciągu 24 godzin, w zależności od metody płatności i statusu weryfikacji."
+        "q7": "Jak szybko mogę wypłacić moje zyski?",
+        "a7": "Wypłaty są zazwyczaj przetwarzane w ciągu 24 godzin, w zależności od metody płatności i statusu weryfikacji."
     },
     "copytop": {
-        "title": "Inwestuj Inteligentniej: Kopiuj Najlepszych Traderów Natychmiast",
-        "text": "ST Trader daje Ci dostęp do najpopularniejszych rynków świata z niskimi kosztami, szybkim wykonaniem i bez ukrytych opłat",
-        "button": "Rozpocznij Kopiowanie Handlu"
+        "title": "Inwestuj mądrzej: Kopiuj najlepszych traderów natychmiast",
+        "text": "ST Trader daje Ci dostęp do najpopularniejszych rynków na świecie z niskimi kosztami, szybkim wykonaniem i bez ukrytych opłat",
+        "button": "Zacznij Copy Trading"
     },
     "footer": {
         "nav": {
@@ -211,35 +164,33 @@
             "testimonials": "Opinie",
             "faq": "FAQ"
         },
-        "company_info": "Strona internetowa jest własnością i jest zarządzana przez ST Trader Ltd, firmę zarejestrowaną na Saint Lucia jako Międzynarodowa Spółka Biznesowa (IBC) pod numerem rejestracyjnym 2023-00987. Siedziba firmy znajduje się na parterze, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, LC01 401, Saint Lucia. Adres operacyjny to Mariano Roque Alonso Street 1344, Asunción, 001005, Paragwaj.",
+        "company_info": "Strona internetowa jest własnością i jest obsługiwana przez ST Trader Ltd, firmę zarejestrowaną w Saint Lucia jako International Business Company (IBC) pod numerem rejestracyjnym 2023-00987. Siedziba firmy znajduje się pod adresem Ground Floor, The Sotheby Building, Rodney Village, Rodney Bay, Gros-Islet, LC01 401, Saint Lucia. Jej adres operacyjny to Mariano Roque Alonso Street 1344, Asunción, 001005, Paragwaj.",
         "risk": {
-            "title": "Ostrzeżenie o Ryzyku:",
-            "text1": "Handel instrumentami lewarowanymi, takimi jak derywaty, wiąże się z wysokim poziomem ryzyka i może nie być odpowiedni dla wszystkich inwestorów. Możesz stracić cały lub część zainwestowanego kapitału. Prosimy upewnić się, że w pełni rozumiesz związane z tym ryzyka, rozważ swój poziom doświadczenia, cele inwestycyjne i, w razie potrzeby, skonsultuj się z niezależnym doradcą finansowym przed rozpoczęciem handlu. Handel na marginesie wiąże się z możliwością zarówno znacznych zysków, jak i znacznych strat.",
-            "text2": "Upewnij się, że zapoznasz się ze wszystkimi związanymi ryzykami i podejmij odpowiednie kroki, aby skutecznie je zarządzać. Więcej informacji znajdziesz w naszym Zawiadomieniu o Ujawnieniu Ryzyka."
+            "title": "Ostrzeżenie o ryzyku:",
+            "text1": "Handel instrumentami lewarowanymi, takimi jak pochodne, wiąże się z wysokim poziomem ryzyka i może nie być odpowiedni dla wszystkich inwestorów. Możesz stracić całość lub część zainwestowanego kapitału. Upewnij się, że w pełni rozumiesz związane z tym ryzyko, weź pod uwagę swój poziom doświadczenia, cele inwestycyjne i, jeśli to konieczne, zasięgnij niezależnej porady finansowej przed rozpoczęciem handlu. Handel na marży wiąże się z możliwością zarówno znacznych zysków, jak i znacznych strat.",
+            "text2": "Upewnij się, że zapoznałeś się ze wszystkimi związanymi ryzykami i podejmij odpowiednie kroki, aby skutecznie nimi zarządzać. Więcej informacji znajdziesz w naszym Ostrzeżeniu o Ryzyku."
         },
         "geo": {
-            "title": "Ograniczenia Geograficzne:",
-            "text": "Informacje na tej stronie nie są przeznaczone dla mieszkańców następujących krajów lub terytoriów: Afganistan, Albania, Algieria, Angola, Australia, Bahrajn, Bangladesz, Barbados, Białoruś, Benin, Bhutan, Bośnia i Hercegowina, Botswana, Brazylia, Burkina Faso, Burundi, Kambodża, Kamerun, Republika Zielonego Przylądka, Republika Środkowoafrykańska, Czad, Chiny, Komory, Demokratyczna Republika Konga, region Krymu, Kuba, Dżibuti, Egipt, Erytrea, Etiopia, Fidżi, Gabon, Ghana, Gwinea, Haiti, Iran, Irak, Jamajka, Jordania, Kenia, Kosowo, Kuwejt, Laos, Liban, Liberia, Libia, Macedonia Północna, Madagaskar, Malawi, Malediwy, Mali, Maroko, Mjanma, Namibia, Nepal, Niger, Nigeria, Korea Północna, Cypr Północny, Oman, Pakistan, Palau, Portoryko, Katar, Rosja, Rwanda, Somalia, Senegal, Sudan Południowy, Sudan, Syria, Tanzania, Togo, Trynidad i Tobago, Tunezja, Tuvalu, Wielka Brytania, Stany Zjednoczone, Vanuatu, Watykan, Jemen, Zambia i Zimbabwe."
+            "title": "Ograniczenia geograficzne:",
+            "text": "Informacje na tej stronie nie są przeznaczone dla mieszkańców następujących krajów lub terytoriów: Afganistan, Albania, Algieria, Angola, Australia, Bahrajn, Bangladesz, Barbados, Białoruś, Benin, Bhutan, Bośnia i Hercegowina, Botswana, Brazylia, Burkina Faso, Burundi, Kambodża, Kamerun, Wyspy Zielonego Przylądka, Republika Środkowoafrykańska, Czad, Chiny, Komory, Demokratyczna Republika Konga, region Krymu, Kuba, Dżibuti, Egipt, Erytrea, Etiopia, Fidżi, Gabon, Ghana, Gwinea, Haiti, Iran, Irak, Jamajka, Jordania, Kenia, Kosowo, Kuwejt, Laos, Liban, Liberia, Libia, Macedonia Północna, Madagaskar, Malawi, Malediwy, Mali, Maroko, Myanmar, Namibia, Nepal, Niger, Nigeria, Korea Północna, Cypr Północny, Oman, Pakistan, Palau, Puerto Rico, Katar, Rosja, Rwanda, Somalia, Senegal, Sudan Południowy, Sudan, Syria, Tanzania, Togo, Trynidad i Tobago, Tunezja, Tuvalu, Wielka Brytania, Stany Zjednoczone, Vanuatu, Watykan, Jemen, Zambia i Zimbabwe."
         },
-        "legal_notice": "Użycie tej strony internetowej i usług nie jest przeznaczone dla żadnej osoby w jurysdykcji, w której takie użycie byłoby sprzeczne z lokalnymi prawami lub regulacjami.",
+        "legal_notice": "Korzystanie z tej strony internetowej i usług nie jest przeznaczone dla żadnej osoby w żadnej jurysdykcji, gdzie takie korzystanie byłoby sprzeczne z lokalnymi przepisami lub regulacjami.",
         "poster": {
-            "title": "Zacznij Inwestować Inteligentnie Dzisiaj",
-            "button": "Zacznij Teraz"
+            "title": "Zacznij inwestować mądrzej już dziś",
+            "button": "Zacznij teraz"
         },
         "copy": "ST Trader 2025",
-        "privacy": "Polityka Prywatności",
-        "cookies": "Polityka plików cookie",
-        "terms": "Warunki użytkowania"
+        "privacy": "Polityka prywatności"
     },
     "cookies": {
-        "title": "Cenimy Twoją Prywatność",
-        "text": "Używamy plików cookie, aby personalizować treści, analizować ruch i poprawiać Twoje doświadczenie. Możesz zarządzać swoimi preferencjami lub zaakceptować wszystkie, aby kontynuować korzystanie z pełnej funkcjonalności.",
-        "functional": "<span>Zaakceptuj</span> tylko funkcjonalne",
-        "all": "Zaakceptuj Wszystkie <span>Ciasteczka</span>"
+        "title": "Cenimy Twoją prywatność",
+        "text": "Używamy plików cookie, aby personalizować treści, analizować ruch i poprawiać Twoje doświadczenia. Możesz zarządzać swoimi preferencjami lub zaakceptować wszystkie, aby kontynuować korzystanie z pełnej funkcjonalności.",
+        "functional": "<span>Akceptuj</span> tylko funkcjonalne",
+        "all": "Zaakceptuj wszystkie <span>pliki cookie</span>"
     },
     "mobmenu": {
-        "back": "Wróć",
-        "button": "Zacznij Teraz",
+        "back": "Wstecz",
+        "button": "Zacznij teraz",
         "note": "Rejestracja zajmuje <span>mniej niż 1 minutę</span>"
     }
 }

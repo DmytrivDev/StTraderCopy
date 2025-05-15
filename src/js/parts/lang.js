@@ -2,6 +2,8 @@ import { initCalcSpeedCarse } from './banner';
 
 const lang = document.documentElement.lang || 'en';
 
+loadTranslations(lang);
+
 function getValueFromKey(obj, key) {
   return key.split('.').reduce((o, i) => (o ? o[i] : null), obj);
 }

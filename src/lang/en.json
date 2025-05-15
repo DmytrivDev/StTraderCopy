@@ -5,157 +5,91 @@
         "item_3": "Trade global markets anytime, anywhere",
         "item_4": "Fast withdrawals and secure payments"
     },
-    "trade": {
-        "title": "WHAT CAN YOU TRADE WITH ST TRADER?",
-        "button": "Get Started Now",
-        "items": {
-            "stocks": {
-                "title": "Stocks",
-                "text": "Your funds are protected with Lloyd’s of London insurance coverage"
-            },
-            "indices": {
-                "title": "Indices",
-                "text": "Your funds are protected with Lloyd’s of London insurance coverage"
-            },
-            "etfs": {
-                "title": "ETFs",
-                "text": "Your funds are protected with Lloyd’s of London insurance coverage"
-            },
-            "commodities": {
-                "title": "Commodities",
-                "text": "Your funds are protected with Lloyd’s of London insurance coverage"
-            },
-            "energy": {
-                "title": "Energy Markets",
-                "text": "Your funds are protected with Lloyd’s of London insurance coverage"
-            }
+    "copytrad": {
+        "title": "WHAT IS COPY TRADING?",
+        "description": "What if you could trade like top investors without doing it all on your own? With Copy Trading, you simply choose an experienced trader, and their moves are automatically mirrored in your account. It’s a smarter, more connected way to invest — no charts, no stress, no guesswork.",
+        "button": "Start Copy Trading"
+    },
+    "meet": {
+        "title": "MEET OUR TOP PERFORMERS",
+        "card_1": {
+            "place": "#1",
+            "name": "Lucas M.",
+            "followers": "Followers: 842",
+            "trades": "Trades: 112",
+            "roi": "ROI (Monthly): +61.4%",
+            "earnings": "Est. Earnings: €385",
+            "from": "From: €250"
+        },
+        "card_2": {
+            "place": "#2",
+            "name": "Daniel V.",
+            "followers": "Followers: 1,130",
+            "trades": "Trades: 154",
+            "roi": "ROI (Monthly): +73%",
+            "earnings": "Est. Earnings: €875",
+            "from": "From: €500"
+        },
+        "card_3": {
+            "place": "#3",
+            "name": "Sofia R.",
+            "followers": "Followers: 670",
+            "trades": "Trades: 89",
+            "roi": "ROI (Monthly): +48%",
+            "earnings": "Est. Earnings: €720",
+            "from": "From: €500"
+        },
+        "button": "Start Copy Trading",
+        "see_more": "See More Traders"
+    },
+    "steps": {
+        "title": "START IN 3 SIMPLE STEPS",
+        "step_1": {
+            "label": "Step 01",
+            "title": "Sign up and explore top traders"
+        },
+        "step_2": {
+            "label": "Step 02",
+            "title": "Make a deposit from €250"
+        },
+        "step_3": {
+            "label": "Step 03",
+            "title": "Copy a trader and let the platform do the rest"
+        },
+        "button": "Get Started Now"
+    },
+    "whycopy": {
+        "title": "WHY COPY TRADING?",
+        "text": "Built for results. Backed by regulation. Trusted worldwide",
+        "card_1": {
+            "title": "No experience required",
+            "text": "You don’t need charts, strategies, or training — just choose a trader and the system handles the rest"
+        },
+        "card_2": {
+            "title": "Automated execution",
+            "text": "Every trade made by your chosen trader is instantly mirrored in your account, with no manual action needed"
+        },
+        "card_3": {
+            "title": "You can pause or stop anytime",
+            "text": "Want to take a break or switch to a different trader? You’re free to pause or exit at any moment"
+        },
+        "card_4": {
+            "title": "Transparent stats & full control",
+            "text": "See each trader’s past performance, risk level, number of trades, and more — so you can make informed decisions"
+        },
+        "card_5": {
+            "title": "Earn passively alongside real traders",
+            "text": "As they profit, you do too — without needing to stay glued to the markets"
         }
     },
-    "works": {
-        "title_html": "HOW IT WORKS IN <span>3 SIMPLE STEPS</span>",
-        "steps": {
-            "step1": "Create your free account",
-            "step2": "Make a deposit from € 250",
-            "step3": "Start trading your way"
-        }
-    },
-    "trust": {
-        "title": "WHY TRADERS TRUST ST TRADER",
-        "items": {
-            "item1": {
-                "title": "1700+ assets",
-                "text": "Trade global stocks, indices, metals, and more — all from one account"
-            },
-            "item2": {
-                "title": "$1 mln",
-                "text": "Your funds are protected with Lloyd’s of London insurance coverage"
-            },
-            "item3": {
-                "title": "100 000+",
-                "text": "Join a growing global community already trading with ST Trader"
-            },
-            "item4": {
-                "title": "Spreads 0.0",
-                "text": "Ultra-low spreads and a zero-commission account option for smarter trading"
-            }
-        }
-    },
-    "awarded": {
-        "title": "AWARDED FOR EXCELLENCE IN TRADING INNOVATION",
-        "items": {
-            "item1": {
-                "title": "Best Trading Experience",
-                "text": "Awarded by Global Business Outlook — 2024"
-            },
-            "item2": {
-                "title": "Best Mobile Trading Platform",
-                "text": "Awarded by Fintech Awards — 2023"
-            },
-            "item3": {
-                "title": "Fastest Growing Broker",
-                "text": "Awarded by World Finance — 2024"
-            },
-            "item4": {
-                "title": "Best New Trading Technology",
-                "text": "Awarded by Financial Innovation Awards — 2022"
-            }
-        }
-    },
-    "commision": {
-        "subtitle": "Lower costs. Higher potential.",
-        "title": "$0 commission",
-        "features": {
-            "feature1": "$0 commission",
-            "feature2": "Spreads from 0.0 pips",
-            "feature3": "1:500 high leverage",
-            "feature4": "No deposit fees"
-        }
+    "justcopy": {
+        "title": "LET THE EXPERTS TRADE — YOU JUST COPY",
+        "text": "You don’t need to learn charts or follow the news. Just pick a trader, set your amount, and the rest is automatic.",
+        "button": "Create Your Account"
     },
     "deposits": {
         "title": "FAST AND SECURE DEPOSITS",
         "text": "Top up your account instantly using trusted global payment methods"
-    },
-    "grow": {
-        "title": "WHAT CAN YOUR DEPOSIT GROW INTO?",
-        "button": "Try the Platform Demo",
-        "cards": {
-            "country_italy": "Italy",
-            "country_germany": "Germany",
-            "country_spain": "Spain",
-            "minday_20": "20 min/day",
-            "minday_30": "30 min/day",
-            "minday_50": "50 min/day",
-            "starting": "Starting Deposit",
-            "result": "30-Day Result",
-            "growth": "Growth"
-        }
-    },
-    "type": {
-        "title": "CHOOSE YOUR ACCOUNT TYPE",
-        "subtitle": "Two flexible account types tailored to your goals and trading habits",
-        "note": "Just sign up - <span>it’s free</span>",
-        "standard": {
-            "title": "STANDARD",
-            "button": "OPEN A STANDARD ACCOUNT NOW",
-            "features": {
-                "feature1": "Spreads starting from <b>1.0 pips</b>",
-                "feature2": "<b>Ultra-fast</b> Execution",
-                "feature3": "No <b>Dealing Desk</b>",
-                "feature4": "<b>Transparent Trading</b> Environment",
-                "feature5": "Negative Balance <b>Protection</b>",
-                "feature6": "<b>No commission</b> on trades (except indices)"
-            }
-        },
-        "ecn": {
-            "title": "ECN",
-            "button": "OPEN an ECN ACCOUNT NOW",
-            "features": {
-                "feature1": "Spreads starting from <b>0.0 pips</b>",
-                "feature2": "<b>Ultra-fast</b> Execution",
-                "feature3": "In-depth <b>Market Insights</b>",
-                "feature4": "<b>Transparent Trading</b> Environment",
-                "feature5": "Negative Balance <b>Protection</b>",
-                "feature6": "<b>Commission:</b> Yes"
-            }
-        }
-    },
-    "platforms": {
-        "title": "TRADE ON TRUSTED PLATFORMS",
-        "subtitle": "Access the markets from any device — fast, flexible, and beginner-friendly",
-        "features": {
-            "feature1": {
-                "title": "Mobile, desktop, and web",
-                "text": "Trade anytime, anywhere — from your phone, tablet, or PC"
-            },
-            "feature2": {
-                "title": "User-friendly interface",
-                "text": "Clean, intuitive layout with powerful features just a tap away"
-            },
-            "feature3": {
-                "title": "Advanced charts & one-click trading",
-                "text": "Track trends, analyze movements, and place trades in seconds"
-            }
-        }
     },
     "reviews": {
         "title": "WHAT REAL USERS SAY ABOUT ST TRADER",
@@ -178,6 +112,25 @@
         "review4": {
             "name": "Mia S. (Austria)",
             "text": "Really simple to start. The support team helped me understand leverage, and now I’m confident with every trade."
+        }
+    },
+    "solution": {
+        "title": "ST TRADER — YOUR ALL-IN-ONE TRADING SOLUTION",
+        "card_1": {
+            "title": "Wide range of markets",
+            "text": "Trade stocks, indices, commodities, energy, and even crypto — all from a single platform"
+        },
+        "card_2": {
+            "title": "Beginner-friendly interface",
+            "text": "No clutter, no confusion. Just a clean, intuitive experience on mobile and desktop"
+        },
+        "card_3": {
+            "title": "Licensed & protected",
+            "text": "ST Trader is a fully regulated broker with insurance coverage up to $1,000,000"
+        },
+        "card_4": {
+            "title": "Fast execution & withdrawals",
+            "text": "Enjoy ultra-fast trade execution and 24-hour payout processing — no delays"
         }
     },
     "faq": {
