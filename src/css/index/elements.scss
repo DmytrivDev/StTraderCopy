@@ -107,6 +107,7 @@
   display: block;
   text-align: center;
   background-color: var(--cl);
+  border: 1px solid var(--cl);
   color: var(--cb2);
   font-weight: 600;
   line-height: 1.33;
@@ -152,13 +153,25 @@
     &:hover {
       box-shadow: none;
       background-color: var(--cw);
+      border-color: var(--cw);
       color: var(--cb2);
     }
   }
 
   &:hover {
-    box-shadow: 0 0 1.25rem rgba(13, 227, 214, 0.64);
+    background-color: transparent !important;
+    border-color: var(--cl) !important;
+    color: var(--cl) !important;
+    box-shadow: 0 0 0.75rem rgba(13, 227, 214, 0) !important;
   }
+}
+
+.header__body .actions .btn-def::before {
+    transition: .3s;
+}
+
+.header__body .actions .btn-def:hover::before {
+    background-image: var(--signupH) !important;
 }
 
 @media screen and (max-width: 960px) {

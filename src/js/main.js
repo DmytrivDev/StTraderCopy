@@ -8,3 +8,4 @@ import './parts/videoplay.js';
 import './parts/addmore.js';
 import './parts/accordion.js';
 import './parts/banner.js';
+import './parts/parallax.js';
