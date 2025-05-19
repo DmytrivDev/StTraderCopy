@@ -135,21 +135,21 @@
     },
     "faq": {
         "title": "Często zadawane pytania",
-        "subtitle": "Nowy w handlu? Mamy odpowiedzi",
-        "q1": "Czym jest ST Trader i jak działa?",
-        "a1": "ST Trader to platforma online, która daje Ci dostęp do globalnych rynków. Możesz otworzyć konto, zdeponować środki i zacząć handlować z narzędziami zaprojektowanymi dla wszystkich poziomów doświadczenia.",
-        "q2": "Ile pieniędzy potrzebuję, aby zacząć?",
-        "a2": "Możesz otworzyć konto z zaledwie €50, ale zalecamy rozpoczęcie od co najmniej €250, aby w pełni wykorzystać funkcje i narzędzia platformy.",
-        "q3": "Czy muszę być ekspertem w handlu?",
-        "a3": "Absolutnie nie. ST Trader jest zaprojektowany, aby być przyjaznym dla początkujących, z prostymi interfejsami i dostępem do wsparcia i tutoriali.",
-        "q4": "Czym mogę handlować na platformie?",
-        "a4": "Możesz handlować akcjami, indeksami, towarami, kryptowalutami i więcej — wszystko z jednego konta.",
-        "q5": "Czy ST Trader to bezpieczna i regulowana platforma?",
-        "a5": "Tak, Twoje środki są chronione, a my współpracujemy z regulowanymi dostawcami płynności i ubezpieczonymi procesorami płatności.",
-        "q6": "Jak mogę zdeponować pieniądze?",
-        "a6": "Depozyty można dokonać natychmiast za pomocą karty kredytowej, przelewu bankowego lub innych zaufanych metod płatności wymienionych w Twojej strefie konta.",
-        "q7": "Jak szybko mogę wypłacić moje zyski?",
-        "a7": "Wypłaty są zazwyczaj przetwarzane w ciągu 24 godzin, w zależności od metody płatności i statusu weryfikacji."
+        "subtitle": "Wszystko, co musisz wiedzieć przed rozpoczęciem",
+        "q1": "Czym jest ST Trader i jak to działa?",
+        "a1": "ST Trader to internetowa platforma handlowa, która zapewnia dostęp do globalnych rynków finansowych. Rejestrujesz się, zasilasz swoje konto i handlujesz popularnymi instrumentami, takimi jak akcje, indeksy czy surowce, korzystając z łatwej w obsłudze platformy dostępnej na komputerze i urządzeniach mobilnych.",
+        "q2": "Czy ST Trader to bezpieczna i regulowana platforma?",
+        "a2": "Tak. ST Trader to licencjonowany i regulowany broker. Twoje środki są przechowywane na wydzielonych kontach i chronione ubezpieczeniem do kwoty 1 000 000 USD za pośrednictwem Lloyd’s of London. ST Trader jest także członkiem Financial Commission, która oferuje niezależne rozwiązywanie sporów.",
+        "q3": "Jak działa Copy Trading?",
+        "a3": "Wybierasz tradera, którego wyniki ci odpowiadają. Po połączeniu każda jego transakcja jest automatycznie kopiowana na twoje konto. Jeśli on zyska — ty również zyskujesz.",
+        "q4": "Czy mogę stracić pieniądze?",
+        "a4": "Tak. Każdy handel wiąże się z ryzykiem. Nawet jeśli kopiujesz doświadczonych traderów, ich wyniki nie są gwarantowane. Dlatego pokazujemy pełne statystyki i pozwalamy ci wybrać poziom ryzyka odpowiedni dla ciebie.",
+        "q5": "Czy mogę zatrzymać Copy Trading w dowolnym momencie?",
+        "a5": "Oczywiście. Możesz wstrzymać, zatrzymać lub przełączyć się na innego tradera w dowolnym momencie — bezpośrednio z panelu użytkownika.",
+        "q6": "Czy Copy Trading wiąże się z dodatkowymi opłatami?",
+        "a6": "Nie. Nie ma żadnych ukrytych opłat ani kosztów subskrypcji. Płacisz tylko standardowe koszty handlowe, takie jak spready lub prowizje — tak jak w zwykłym handlu.",
+        "q7": "Jaka jest minimalna wpłata?",
+        "a7": "Możesz zacząć już od 250 €. To wszystko, czego potrzebujesz, aby rozpocząć Copy Trading i zacząć zarabiać."
     },
     "copytop": {
         "title": "Inwestuj mądrzej: Kopiuj najlepszych traderów natychmiast",
@@ -181,8 +181,8 @@
         },
         "copy": "ST Trader 2025",
         "privacy": "Polityka prywatności",
-        "cookies": "Cookie Policy",
-        "terms": "Terms of Use"
+        "cookies": "Polityka plików cookie",
+        "terms": "Warunki użytkowania"
     },
     "cookies": {
         "title": "Cenimy Twoją prywatność",
