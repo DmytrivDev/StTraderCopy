@@ -135,21 +135,21 @@
     },
     "faq": {
         "title": "Domande frequenti",
-        "subtitle": "Nuovo al trading? Abbiamo le risposte",
-        "q1": "Cos'è ST Trader e come funziona?",
-        "a1": "ST Trader è una piattaforma online che ti dà accesso ai mercati globali. Puoi aprire un account, depositare fondi e iniziare a fare trading con strumenti progettati per tutti i livelli di esperienza.",
-        "q2": "Di quanti soldi ho bisogno per iniziare?",
-        "a2": "Puoi aprire un account con soli €50, ma raccomandiamo di iniziare con almeno €250 per sfruttare appieno le funzionalità e gli strumenti della piattaforma.",
-        "q3": "Devo essere un esperto di trading?",
-        "a3": "Assolutamente no. ST Trader è progettato per essere adatto ai principianti, con interfacce semplici e accesso a supporto e tutorial.",
-        "q4": "Cosa posso fare trading sulla piattaforma?",
-        "a4": "Puoi fare trading su azioni, indici, materie prime, criptovalute e altro — tutto da un unico account.",
-        "q5": "ST Trader è una piattaforma sicura e regolamentata?",
-        "a5": "Sì, i tuoi fondi sono protetti e collaboriamo con fornitori di liquidità regolamentati e processori di pagamento assicurati.",
-        "q6": "Come posso depositare denaro?",
-        "a6": "I depositi possono essere effettuati istantaneamente tramite carta di credito, bonifico bancario o altri metodi di pagamento affidabili elencati nella tua area account.",
-        "q7": "Quanto velocemente posso ritirare i miei profitti?",
-        "a7": "I prelievi vengono generalmente elaborati entro 24 ore, a seconda del metodo di pagamento e dello stato di verifica."
+        "subtitle": "Tutto quello che c'è da sapere prima di iniziare",
+        "q1": "Che cos'è ST Trader e come funziona?",
+        "a1": "ST Trader è una piattaforma di trading online che ti dà accesso ai mercati finanziari globali. Ti registri, depositi fondi sul tuo conto e operi su strumenti popolari come azioni, indici e materie prime attraverso una piattaforma facile da usare, disponibile su desktop e mobile.",
+        "q2": "ST Trader è una piattaforma sicura e regolamentata?",
+        "a2": "Sì. ST Trader è un broker autorizzato e regolamentato. I tuoi fondi sono custoditi in conti separati e protetti da una copertura assicurativa fino a 1.000.000 $ tramite Lloyd’s di Londra. ST Trader è anche membro della Financial Commission, che offre risoluzione indipendente delle controversie.",
+        "q3": "Come funziona il Copy Trading?",
+        "a3": "Scegli un trader con delle performance che ti piacciono. Una volta collegato, ogni sua operazione viene automaticamente copiata sul tuo conto. Se guadagna lui — guadagni anche tu.",
+        "q4": "Posso perdere denaro?",
+        "a4": "Sì. Tutte le attività di trading comportano un rischio. Anche copiando trader esperti, i risultati non sono garantiti. Per questo motivo ti mostriamo tutte le statistiche e ti lasciamo scegliere il livello di rischio più adatto a te.",
+        "q5": "Posso interrompere il Copy Trading in qualsiasi momento?",
+        "a5": "Assolutamente. Puoi mettere in pausa, interrompere o passare a un altro trader in qualsiasi momento — direttamente dal tuo pannello di controllo.",
+        "q6": "Devo pagare costi extra per il Copy Trading?",
+        "a6": "No. Non ci sono costi nascosti né abbonamenti. Paghi solo i normali costi di trading, come spread o commissioni, proprio come nel trading tradizionale.",
+        "q7": "Qual è il deposito minimo?",
+        "a7": "Puoi iniziare con soli €250. È tutto ciò che ti serve per iniziare con il Copy Trading e iniziare a guadagnare."
     },
     "copytop": {
         "title": "Investi in modo più intelligente: copia i migliori trader istantaneamente",
@@ -181,8 +181,8 @@
         },
         "copy": "ST Trader 2025",
         "privacy": "Informativa sulla privacy",
-        "cookies": "Cookie Policy",
-        "terms": "Terms of Use"
+        "cookies": "Informativa sui cookie",
+        "terms": "Condizioni d'uso"
     },
     "cookies": {
         "title": "Valutiamo la tua privacy",
