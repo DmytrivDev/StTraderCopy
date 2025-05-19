@@ -180,7 +180,9 @@
             "button": "Zacznij teraz"
         },
         "copy": "ST Trader 2025",
-        "privacy": "Polityka prywatności"
+        "privacy": "Polityka prywatności",
+        "cookies": "Cookie Policy",
+        "terms": "Terms of Use"
     },
     "cookies": {
         "title": "Cenimy Twoją prywatność",
